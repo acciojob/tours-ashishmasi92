@@ -1,0 +1,33 @@
+ [
+  {
+    "name": "Grand Canyon Explorer",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Grand_Canyon_view_from_Pima_Point_2010.jpg",
+    "price": 299,
+    "description": "Experience breathtaking views of the Grand Canyon with a full-day guided hiking and photography tour. Includes lunch and transportation."
+  },
+  {
+    "name": "European Castle Tour",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/37/Neuschwanstein_Castle_LOC_print.jpg",
+    "price": 1999,
+    "description": "Visit some of Europe's most iconic castles across Germany, France, and Austria in a 10-day immersive historical experience."
+  },
+  {
+    "name": "Great Barrier Reef Snorkeling",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/98/Great_Barrier_Reef-EO.JPG",
+    "price": 499,
+    "description": "Dive into one of the world's most beautiful coral reefs. This tour includes boat transfers, equipment, and expert guides."
+  },
+  {
+    "name": "New York City Highlights",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Manhattan_from_top_of_the_rock.jpg",
+    "price": 149,
+    "description": "A perfect 1-day tour covering major NYC sights like Times Square, Central Park, and the Statue of Liberty. Includes metro passes."
+  },
+  {
+    "name": "South African Safari Adventure",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Kruger_National_Park_Lion.jpg",
+    "price": 2499,
+    "description": "Explore wildlife in their natural habitat on this 5-day luxury safari. See lions, elephants, and rhinos in Kruger National Park."
+  }
+]
+
